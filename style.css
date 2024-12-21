@@ -1,0 +1,111 @@
+
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1F2937;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+ul {
+    list-style-type: none;
+    width: 500px;
+}
+
+a {
+font-size: 18px;
+color: #e5e7eb;
+text-decoration: none;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+   align-items: center;
+    gap: 150px;
+   padding-top: 30px;
+   padding-bottom: 60px;
+   background-color: #1F2937;
+}
+
+.left{
+width: 300px;
+
+}
+
+img {
+ width: auto;
+ height: 350px;
+}
+
+.title {
+    color: #F9FAF8;
+    font-size: 48px;
+    margin: 0;
+}
+
+.explain{
+    font-size:18px;
+    color: #F9FAF8;
+}
+
+
+.middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.midpics{
+    display: flex;
+    gap: 20px;
+}
+
+.pickor{
+    height: 180px;
+    width: 250px;
+    border: solid 5px;
+    border-radius: 8px;
+    margin: 0;
+}
+
+.korea {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    height: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.quotetext{
+    color: #1F2937;
+    font-style: italic;
+    font-size: 36px;
+    width: 700px;
+}
