@@ -109,3 +109,47 @@ p {
     font-size: 36px;
     width: 700px;
 }
+
+.flag {
+    height: 40px;
+    width: 80px;
+}
+
+.sign{
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blue{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 900px;
+    height: 200px;
+    background-color: #1F2937;
+
+}
+
+.time{
+    color: white;
+    font-size: 18px;
+}
+
+h3{
+    margin: 0;;
+}
+
+button {
+    padding: 10px;
+}
+
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 60px;
+}
